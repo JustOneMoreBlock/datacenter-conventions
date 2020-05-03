@@ -1,0 +1,42 @@
+{
+  "names": [
+    {
+      "location": "Dallas, Texas",
+      "airport_code": [
+      {
+        "city": "Dallas",
+        "faa": "DAL",
+        "iata": "DAL",
+        "icao": "KDAL",
+        "name": "Dallas Love Field",
+        "role": "P-M"
+      },
+      {
+        "city": "Dallas",
+        "faa": "DFW",
+        "iata": "DFW",
+        "icao": "KDFW",
+        "name": "Dallas/Fort Worth International Airport",
+        "role": "P-L"
+      }
+      ],
+      "geographic_directional": "SW",
+      "timezone": "CST"
+    },
+    {
+      "location": "Portland, Oregon",
+      "airport_code": [
+      {
+        "city": "Portland / Hillsboro",
+        "faa": "HIO",
+        "iata": "HIO",
+        "icao": "KHIO",
+        "name": "Portland–Hillsboro Airport",
+        "role": "R"
+      }
+      ],
+      "geographic_directional": "W",
+      "timezone": "PST"
+    }
+  ]
+}
